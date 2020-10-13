@@ -1,20 +1,18 @@
-#marinex110 {
-	background-color:#03d3fc;
-}
-
 .systemname {
-	font-family: "Impact, Charcoal", sans-serif;"
-	font-size:30px;
-	padding-top:25px;
-	padding-right: 25px;
-	padding-left:25px;
-	padding-bottom:25px;
+	font-family:"Impact", Charcoal, sans-serif;
+	margin-left:2cm;
+	font-size:50px;
 }
 
-#systems {
-	
+#marinex110 {
+	background-color:#52ceff;
+	padding-left: 30px;
+	padding-right:30px;
+	padding-bottom:30px;
+	padding-top:30px;
+	margin-top:2cm;
 }
 
-body {
-	background-color:;
+#body {
+	margin-top:2cm;
 }
