@@ -1,0 +1,22 @@
+.item {
+	background-color:#52ceff;
+	font-family:"Impact", Charcoal, sans-serif;
+	padding-right:10px;
+	padding-left:10px;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+h1 , h2 {
+	font-size:28px;
+	font-family:"Impact", Charcoal, sans-serif;
+}
+
+a {
+	text-decoration:none;
+	color:black;
+}
+
+a:clicked {
+	text-decoration:none;
+}
